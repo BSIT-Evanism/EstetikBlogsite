@@ -1,6 +1,7 @@
 <template>
     <div class="flex">
-        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dicta, nisi.
+        <articles />
+        <sidearticle />
     </div>
 </template>
 
