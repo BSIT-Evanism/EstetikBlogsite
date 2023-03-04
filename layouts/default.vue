@@ -1,14 +1,14 @@
 <template>
 
-    <div class="flex bg-#e9e6e4">
+    <div class="flex bg-rose-200">
     
                 
             
-                        <aside class="flex h-100vh bg-slate w-44 flex-col">
-                             <NuxtLink class="p4 h-2 w-20 m-5 b-2 border-amber border-solid" to="/">Home</NuxtLink>
-                             <NuxtLink class="p4 h-2 w-20 m-5 b-2 border-amber border-solid" to="/about">About</NuxtLink>
-                             <NuxtLink class="p4 h-2 w-20 m-5 b-2 border-amber border-solid" to="/articles">Articles</NuxtLink>
-                             <NuxtLink class="p4 h-2 w-20 m-5 b-2 border-amber border-solid" to="/people">People</NuxtLink>
+                        <aside class="flex group h-100vh b-0 b-r-1 border-solid bg-rose-200 w-44 flex-col hover:bg-rose-300 animation-all duration-300ms">
+                             <NuxtLink class="p4 h-2 w-20 m-5 fw700 no-underline text-slate-400 group-hover:text-slate-700 hover:underline animate-all duration-700ms" to="/">Home</NuxtLink>
+                             <NuxtLink class="p4 h-2 w-20 m-5 fw700 no-underline text-slate-400 group-hover:text-slate-700 hover:underline animate-all duration-700ms" to="/about">About</NuxtLink>
+                             <NuxtLink class="p4 h-2 w-20 m-5 fw700 no-underline text-slate-400 group-hover:text-slate-700 hover:underline animate-all duration-700ms" to="/articles">Articles</NuxtLink>
+                             <NuxtLink class="p4 h-2 w-20 m-5 fw700 no-underline text-slate-400 group-hover:text-slate-700 hover:underline animate-all duration-700ms" to="/people">People</NuxtLink>
                              <carousel class="translate-y-400px" />
                          </aside>
                      
