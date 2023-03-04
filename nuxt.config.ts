@@ -3,7 +3,6 @@ export default defineNuxtConfig({
     modules: [
         '@nuxt/devtools',
         '@unocss/nuxt',
-        '@nuxtjs/google-fonts',
       ],
       unocss: {
         // presets
