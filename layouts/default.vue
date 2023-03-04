@@ -7,8 +7,8 @@
                         <aside class="flex h-100vh bg-slate w-44 flex-col">
                              <NuxtLink class="p4 h-2 w-20 m-5 b-2 border-amber border-solid" to="/">Home</NuxtLink>
                              <NuxtLink class="p4 h-2 w-20 m-5 b-2 border-amber border-solid" to="/about">About</NuxtLink>
-                            <NuxtLink class="p4 h-2 w-20 m-5 b-2 border-amber border-solid" to="/articles">Articles</NuxtLink>
-                            <NuxtLink class="p4 h-2 w-20 m-5 b-2 border-amber border-solid" to="/people">People</NuxtLink>
+                             <NuxtLink class="p4 h-2 w-20 m-5 b-2 border-amber border-solid" to="/articles">Articles</NuxtLink>
+                             <NuxtLink class="p4 h-2 w-20 m-5 b-2 border-amber border-solid" to="/people">People</NuxtLink>
                              <carousel class="translate-y-400px" />
                          </aside>
                      
