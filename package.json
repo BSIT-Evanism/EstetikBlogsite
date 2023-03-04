@@ -9,6 +9,7 @@
   },
   "devDependencies": {
     "@nuxt/devtools": "^0.2.5",
+    "@nuxtjs/google-fonts": "^2.0.0",
     "@unocss/nuxt": "^0.50.3",
     "nuxt": "^3.2.3"
   }
