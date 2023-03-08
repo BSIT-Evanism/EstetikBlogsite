@@ -1,5 +1,5 @@
 <template>
-    <div>
+    <div class="">
         <h1>test form</h1>
     </div>
 </template>

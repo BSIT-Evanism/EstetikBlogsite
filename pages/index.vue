@@ -1,7 +1,7 @@
 <template>
-    <div class="group flex">
-        <articles />
-        <sidearticle class="w-2" />
+    <div class="group flex h-60% animate-all duration-200ms">
+        <articles class="overflow-y-scroll" />
+        <sidearticle  />
     </div>
 </template>
 
