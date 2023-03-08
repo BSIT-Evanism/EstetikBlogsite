@@ -1,7 +1,7 @@
 <template>
-    <div class="flex">
+    <div class="group flex">
         <articles />
-        <sidearticle />
+        <sidearticle class="w-2" />
     </div>
 </template>
 
