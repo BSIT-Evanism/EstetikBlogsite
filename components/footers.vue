@@ -1,5 +1,5 @@
 <template>
-    <div class="border-solid b-1 b-l-0 b-r-0 p-4">
+    <div class="border-solid b-1 b-l-0 b-r-0 p-4 pb-4">
         <h3>Copyright</h3>
         <h4>Tamadaku.org</h4>
         
