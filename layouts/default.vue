@@ -1,6 +1,6 @@
 <template>
 
-    <div class="bg-#e9e6e4 p-5">
+    <div class="bg-#e9e6e4 p-5 box-content">
         <div class="flex bg-#e9e6e4">
         
         
