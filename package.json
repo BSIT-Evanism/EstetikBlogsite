@@ -10,6 +10,7 @@
   "devDependencies": {
     "@nuxt/devtools": "^0.2.5",
     "@unocss/nuxt": "^0.50.3",
+    "@unocss/preset-web-fonts": "^0.53.3",
     "nuxt": "^3.2.3"
   }
 }
